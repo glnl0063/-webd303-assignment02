@@ -58,10 +58,10 @@ const style = StyleSheet.create({
     // hero details
     heroText: {
         color: "white",
-        fontSize: 45, 
+        fontSize: 40, 
         fontWeight: "bold",
         textAlign: "center",
-        width: "75%",
+        width: "85%",
     },  
    
 });
