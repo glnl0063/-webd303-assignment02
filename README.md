@@ -1,4 +1,4 @@
-# WEBD303 Assignment01 - Restaurant
+# WEBD303 Assignment02 - Basic Alcohol App 
 
 ## Table of contents
 * [About](#about)
