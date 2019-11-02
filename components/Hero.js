@@ -16,7 +16,7 @@ export default class Hero extends Component {
         <ImageBackground style={style.backgroundImage} source={{uri: "https://images.unsplash.com/photo-1543007630-9710e4a00a20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80"}}>
             <View style={style.container}>
                 <Text style={style.companyName}>Potus</Text>            
-                <Text style={style.heroText}>Discover and learn alcohol and cocktails</Text>                   
+                <Text style={style.heroText}>Discover and add your favourite alcohol and cocktails</Text>                   
             </View>
         </ImageBackground>
 
