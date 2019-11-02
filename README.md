@@ -55,7 +55,7 @@ npm install --save react-navigation
 ~~~
 expo install expo-linear-gradient
 ~~~
-8. Install Expo Linear Gradient
+8. Install React Native Animatable
 ~~~
 npm install react-native-animatable --save
 ~~~
