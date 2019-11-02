@@ -64,4 +64,4 @@ npm install react-native-animatable --save
 * Alyssa Galinato
 
 ## Sources
-The content and images were retrieved from [Unsplash](https://unsplash.com/) and [Cocktail DB API]https://rapidapi.com/theapiguy/api/the-cocktail-db). 
+The content and images were retrieved from [Unsplash](https://unsplash.com/) and [Cocktail DB API](https://rapidapi.com/theapiguy/api/the-cocktail-db). 
